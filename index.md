@@ -1,3 +1,6 @@
+---
+layout: default
+---
 It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. It was originally created by [Brad Barrish](https://bradbarrish.com) and many others have contributed.
 
 ## Los Angeles County Resources
@@ -48,3 +51,4 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 - [Fact Check: Did Los Angeles Cut Fire Department Funding by $17.6M?](https://www.newsweek.com/fact-check-did-los-angeles-cut-fire-department-funding-2011568)
 - [FEMA rumor debunking](https://www.fema.gov/disaster/recover/rumor-response#:~:text=Rumor%3A%20FEMA%20will%20take%20my,of%20your%20property%20or%20land.)
 
+<p class="muted small">© 2025 | Theme is adapted from <a href="https://github.com/danromero/clio">Clio</a></p>
