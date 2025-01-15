@@ -13,6 +13,7 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 - FEMA News Release: [As Coordinated Wildfire Response Efforts Continue, FEMA Encourages Californians to Apply for Aid](https://www.fema.gov/press-release/20250112/coordinated-wildfire-response-efforts-continue-fema-encourages-californians)
 - [Apply for FEMA assistance](http://www.disasterassistance.gov/)
 - Call the FEMA Helpline at 1-800-621-3362
+- [LA Fire Forum](https://lafires.iolovesyou.com/) is a community discussion forum for people impacted by the fires.
 - [Mutual Aid Los Angeles Resources](https://docs.google.com/spreadsheets/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/edit?gid=0#gid=0) (Google Sheets) has resources such as shelter info, animal boarding info, addresses for distribution centers, volunteer opportunities and more.
 - [Listings Project](https://www.listingsproject.com/) is a community offering free access to carefully vetted real estate, job, and services offered listings weekly. It is not specific to the fires, but may be helpful.
 - [LA Fire Hotel Availability](https://docs.google.com/spreadsheets/u/1/d/1o3k8WKk06GsCmPfQYXUyV0NILEt_8jSTzHTk7eIQ4os/htmlview?usp=embed_facebook) (Google Sheets) has an updated list of hotels with instructions for how to get deeply discounted and potentially free rooms if you are displaced.
