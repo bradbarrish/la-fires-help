@@ -34,8 +34,8 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 - [FIRMS (Fire Information for Resource Management Systems) US/Canada](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-118.04,34.20,12.79z) distributes Near Real-Time (NRT) active fire data from the Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, and the Visible Infrared Imaging Radiometer Suite (VIIRS) aboard S-NPP, NOAA 20 and NOAA 21 (formally known as JPSS-1 and JPSS-2). Globally these data are available within 3 hours of satellite observation, but for the US and Canada active fire detections are available in real-time.
 
 ## Apps
-- [Watch Duty](https://watchduty.org) - [iOS](https://apps.apple.com/us/app/watch-duty-wildfire/id1574452924) | [Android](https://play.google.com/store/apps/details?id=org.watchduty.app)
-- Scanner Radio - [iOS](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) | [Android](https://play.google.com/store/apps/details?id=com.scannerradio&hl=en_US)
+- [Watch Duty](https://watchduty.org) - [iOS](https://apps.apple.com/us/app/watch-duty-wildfire/id1574452924) / [Android](https://play.google.com/store/apps/details?id=org.watchduty.app)
+- Scanner Radio - [iOS](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) / [Android](https://play.google.com/store/apps/details?id=com.scannerradio&hl=en_US)
 
 ## Advice & Guidance
 - [Los Angeles County Department of Public Health Fire Recovery Guidance for Residents and Businesses](http://www.publichealth.lacounty.gov/eh/safety/returning-home-after-fire.htm)
