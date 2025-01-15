@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. 
+It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires.
+
+Last updated: 2025-01-15 @ 07:54
 
 ## Los Angeles County Resources
 - [LAFD News](https://lafd.org/news)
@@ -47,6 +49,8 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 - [Caution: Fire Ash in Home Gardens](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CDPH%20Document%20Library/FireAshHomeGardens.pdf) (PDF)
 - [United Policyholders Claim Guidance Library](https://uphelp.org/claim-guidance-publications/) - UP is a non-profit 501(c) (3) organization whose mission is to be a trustworthy and useful information resource and an effective voice for consumers of all types of insurance in all 50 states.
 - [United Policyholders 2025 California Wildfires Insurance Claim and Recovery Help](https://uphelp.org/disaster-recovery-help/2025cawildfires/) This page includes resources for the January 2025 Palisades Fire, Eaton Fire, and Hurst Fire in Los Angeles County.
+- [Legal Aid Disaster Resource Center has a California Wildfires and Straight-line Winds](https://www.ladrc.org/disasters/california-wildfires-and-straight-line-winds/) resource page with helpful information and guidance on applying for assistance.
+- [Coalition for Clean Air](https://www.ccair.org/) is a great general resource that also has helpful [wildfire smoke and safety resources](https://www.ccair.org/wildfire-smoke-and-safety-resources/). 
 
 ## Fact Checking
 - [Fact Check: Did Los Angeles Cut Fire Department Funding by $17.6M?](https://www.newsweek.com/fact-check-did-los-angeles-cut-fire-department-funding-2011568)
