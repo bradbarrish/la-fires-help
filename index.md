@@ -1,6 +1,3 @@
----
-layout: home
----
 It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. It was originally created by [Brad Barrish](https://bradbarrish.com) and many others have contributed.
 
 ## Los Angeles County Resources
