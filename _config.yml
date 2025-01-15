@@ -1,0 +1,11 @@
+title: LA Fires Help
+email: brad@bradbarrish.com
+description: Resources for people impacted by the LA fires
+url: "https://lafires.help/"
+twitter: bradbarrish
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
