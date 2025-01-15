@@ -3,7 +3,7 @@ layout: default
 ---
 It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires.
 
-Last updated: 2025-01-15 @ 07:54
+Last updated: 2025-01-15 @ 08:25
 
 ## Los Angeles County Resources
 - [LAFD News](https://lafd.org/news)
@@ -26,6 +26,9 @@ Last updated: 2025-01-15 @ 07:54
 - [List of displaced Filipino families with links to GoFundMe pages](https://docs.google.com/spreadsheets/d/17hqZniTXSkz2xCXg06dLL3bV7NCnp-JROBPESwnjsgw/edit?gid=0#gid=0) (Google Sheets)
 - [Venice Helping Hub](https://www.venicehelpinghub.com/) has resources for evacuees and people wanting to volunteer
 - [Mailing list for donated goods available at Kalon](https://kalon.myflodesk.com/wildfire-donated-goods)
+- [Brands providing products to families impacted by the fires](https://docs.google.com/spreadsheets/u/0/d/1L0dQpfj3c86mXRjADRrLshUCZrFzA3vcM_TfYxITjmc/htmlview) (Google Sheets)
+- [Resources for helping children impacted by the fires](https://docs.google.com/document/d/1-9tNJfmn8icCjx8lxkpY9Q_inNTGF21cv-xIDlVRYoI/edit?tab=t.0) (Google Docs)
+- [Therapists offering pro bono therapy](https://docs.google.com/spreadsheets/u/1/d/1uAMVz8TQMzShQeuEA6kmOP0jyRN7qe1Iiqb6JOLTPqg/htmlview) (Google Sheets)
 
 ## Volunteers Needed
 - [SPACES Donation Center and Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
