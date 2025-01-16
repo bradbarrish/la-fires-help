@@ -3,7 +3,7 @@ layout: default
 ---
 It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. As much as possible I have tried to vet the information and only include informational resources that have cited sources or were written by subjectmatter experts.
 
-Last updated: 2025-01-15 @ 08:25
+Last updated: 2025-01-15 @ 21:51
 
 ## Emergency Information & Maps
 - [LAFD News](https://lafd.org/news)
@@ -43,6 +43,7 @@ Last updated: 2025-01-15 @ 08:25
 - [Displaced Black families support](https://docs.google.com/spreadsheets/d/1pK5omSsD4KGhjEHCVgcVw-rd4FZP9haoijEx1mSAm5c/htmlview)
 - [Displaced Latine families support](https://docs.google.com/spreadsheets/d/1km3lEvdVY70P3875guzujp5xtoIFMr6jVZVxfpN3MeA/edit?gid=220233750#gid=220233750)
 - [Displaced Filipino families support](https://docs.google.com/spreadsheets/d/17hqZniTXSkz2xCXg06dLL3bV7NCnp-JROBPESwnjsgw/edit?gid=0#gid=0)
+- [Los Angeles area teachers support](https://docs.google.com/spreadsheets/d/1Xs8l-x8jmPQ-hx7x2PjYXs6MJ5jnhBD0_qMWiPV8AF4/edit?gid=0#gid=0)
 
 ## Insurance & Legal Resources
 - [United Policyholders Claim Guidance Library](https://uphelp.org/claim-guidance-publications/)
