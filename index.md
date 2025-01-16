@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires.
+It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. As much as possible I have tried to vet the information and only include informational resources that have cited sources or were written by subjectmatter experts.
 
 Last updated: 2025-01-15 @ 08:25
 
@@ -17,10 +17,12 @@ Last updated: 2025-01-15 @ 08:25
 
 ## Immediate Assistance
 - **FEMA Helpline**: 1-800-621-3362
+- **Mexican Consulate Emergency Line**: 213-219-0175
 - [Apply for FEMA assistance](http://www.disasterassistance.gov/)
 - [LA Fire Hotel Availability](https://docs.google.com/spreadsheets/u/1/d/1o3k8WKk06GsCmPfQYXUyV0NILEt_8jSTzHTk7eIQ4os/htmlview?usp=embed_facebook) - Discounted and potentially free rooms for displaced residents
 - [Venice Helping Hub](https://www.venicehelpinghub.com/) - Resources for evacuees
 - [Mutual Aid Los Angeles Resources](https://docs.google.com/spreadsheets/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/edit?gid=0) - Shelter info, animal boarding, distribution centers
+- [Alliance For A Better Community Fuerza Fund](https://afabc.org/fuerza-fund/)
 
 ## Health & Safety Resources
 - [LA County Department of Public Health Fire Recovery Guidance](http://www.publichealth.lacounty.gov/eh/safety/returning-home-after-fire.htm)
@@ -28,6 +30,7 @@ Last updated: 2025-01-15 @ 08:25
 - [Fire Ash in Home Gardens Guide](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CDPH%20Document%20Library/FireAshHomeGardens.pdf)
 - [Coalition for Clean Air Resources](https://www.ccair.org/wildfire-smoke-and-safety-resources/)
 - [Therapists offering pro bono therapy](https://docs.google.com/spreadsheets/u/1/d/1uAMVz8TQMzShQeuEA6kmOP0jyRN7qe1Iiqb6JOLTPqg/htmlview)
+- [Basic Post Fire Personal Safety](https://docs.google.com/document/u/0/d/1sFFK7f4M4HTd9N4JygWzUhxpwSzW2TgOPCj1eml6Yvo/mobilebasic)
 
 ## Community Support & Donations
 - [SPACES Donation Center and Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
