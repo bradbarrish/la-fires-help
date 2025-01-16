@@ -3,7 +3,7 @@ layout: default
 ---
 It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. As much as possible I have tried to vet the information and only include informational resources that have cited sources or were written by subjectmatter experts.
 
-Last updated: 2025-01-15 @ 21:51
+Last updated: 2025-01-16 @ 10:37
 
 ## Emergency Information & Maps
 - [LAFD News](https://lafd.org/news)
@@ -58,5 +58,6 @@ Last updated: 2025-01-15 @ 21:51
 ## Fact Checking
 - [Fact Check: Did Los Angeles Cut Fire Department Funding?](https://www.newsweek.com/fact-check-did-los-angeles-cut-fire-department-funding-2011568)
 - [FEMA rumor debunking](https://www.fema.gov/disaster/recover/rumor-response)
+- [For some LA water issues, misinformation spreads nearly as fast as the wildfires](https://www.nbclosangeles.com/news/local/for-la-water-issues-misinformation-spreads-nearly-as-fast-as-the-wildfires/3606308/)
 
 <p class="muted small">Created by <a href="https://bradbarrish.com">Brad Barrish</a> | Theme is adapted from <a href="https://github.com/danromero/clio">Clio</a> by <a href="https://danromero.org">Dan Romero</a></p>
