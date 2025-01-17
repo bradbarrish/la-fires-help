@@ -28,7 +28,7 @@ Last updated: 2025-01-16 @ 10:37
 - [LA County Department of Public Health Fire Recovery Guidance](http://www.publichealth.lacounty.gov/eh/safety/returning-home-after-fire.htm)
 - [National Center for Healthy Housing Wildfire Guide](https://nchh.org/information-and-evidence/learn-about-healthy-housing/emergencies/wildfires/after-the-fire/)
 - [Fire Ash in Home Gardens Guide](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CDPH%20Document%20Library/FireAshHomeGardens.pdf)
-- [Coalition for Clean Air Resources](https://www.ccair.org/wildfire-smoke-and-safety-resources/)
+- [Coalition for Clean Air Resources](https://www.ccair.org/wildfire-and-smoke-safety-resources/)
 - [Therapists offering pro bono therapy](https://docs.google.com/spreadsheets/u/1/d/1uAMVz8TQMzShQeuEA6kmOP0jyRN7qe1Iiqb6JOLTPqg/htmlview)
 - [Basic Post Fire Personal Safety](https://docs.google.com/document/u/0/d/1sFFK7f4M4HTd9N4JygWzUhxpwSzW2TgOPCj1eml6Yvo/mobilebasic)
 - [CalFire advice on creating a 'go bag'](https://readyforwildfire.org/prepare-for-wildfire/emergency-supply-kit/)
