@@ -5,7 +5,7 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 
 I created [a custom GPT](https://chatgpt.com/g/g-678a7b3ebf648191a203f5d964cdf12d-post-la-fires-gpt) that is an expert in air quality and can answer all of your questions about life in LA post-fire. You can ask it anything about air quality, health, and safety. I have tested it extensively and it is very good. Others have told me the same.
 
-Last updated: 2025-01-18 @ 13:45
+Last updated: 2025-01-18 @ 13:58
 
 ## Emergency Information & Maps
 - [LAFD News](https://lafd.org/news)
@@ -28,6 +28,7 @@ Last updated: 2025-01-18 @ 13:45
 - [Alliance For A Better Community Fuerza Fund](https://afabc.org/fuerza-fund/)
 
 ## Health & Safety Resources
+- [Department of Managed Health Care (DMHC) Resource Guide: 2025 Southern California Wildfires](https://www.dmhc.ca.gov/Portals/0/Docs/DO/DMHCResourceGuide2025Wildfires.pdf)
 - [LA County Department of Public Health Fire Recovery Guidance](http://www.publichealth.lacounty.gov/eh/safety/returning-home-after-fire.htm)
 - [National Center for Healthy Housing Wildfire Guide](https://nchh.org/information-and-evidence/learn-about-healthy-housing/emergencies/wildfires/after-the-fire/)
 - [Fire Ash in Home Gardens Guide](https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/CDPH%20Document%20Library/FireAshHomeGardens.pdf)
