@@ -3,7 +3,7 @@ layout: default
 ---
 It has been frustratingly difficult to find high-quality, trustworthy information in a single place as things have unfolded with the fires, so this is an attempt to make it a little easier for anyone impacted by the fires. As much as possible I have tried to vet the information and only include informational resources that have cited sources or were written by subjectmatter experts.
 
-Last updated: 2025-01-16 @ 10:37
+Last updated: 2025-01-18 @ 13:45
 
 ## Emergency Information & Maps
 - [LAFD News](https://lafd.org/news)
@@ -19,6 +19,7 @@ Last updated: 2025-01-16 @ 10:37
 - **FEMA Helpline**: 1-800-621-3362
 - **Mexican Consulate Emergency Line**: 213-219-0175
 - [Apply for FEMA assistance](http://www.disasterassistance.gov/)
+- [Governor Newsom announces commitments from major lenders to provide firestorm survivors with mortgage relief](https://www.gov.ca.gov/2025/01/18/governor-newsom-announces-commitments-from-major-lenders-to-provide-firestorm-survivors-with-mortgage-relief/)
 - [LA Fire Hotel Availability](https://docs.google.com/spreadsheets/u/1/d/1o3k8WKk06GsCmPfQYXUyV0NILEt_8jSTzHTk7eIQ4os/htmlview?usp=embed_facebook) - Discounted and potentially free rooms for displaced residents
 - [Venice Helping Hub](https://www.venicehelpinghub.com/) - Resources for evacuees
 - [Mutual Aid Los Angeles Resources](https://docs.google.com/spreadsheets/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/edit?gid=0) - Shelter info, animal boarding, distribution centers
