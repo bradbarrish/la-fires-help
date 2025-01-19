@@ -5,7 +5,7 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 
 I created [a custom GPT](https://chatgpt.com/g/g-678a7b3ebf648191a203f5d964cdf12d-post-la-fires-gpt) that is an expert in air quality and can answer all of your questions about life in LA post-fire. You can ask it anything about air quality, health, and safety. I have tested it extensively and it is very good. Others have told me the same.
 
-Last updated: 2025-01-18 @ 13:58
+Last updated: 2025-01-18 @ 23:06
 
 ## Emergency Information & Maps
 - [LAFD News](https://lafd.org/news)
@@ -22,6 +22,7 @@ Last updated: 2025-01-18 @ 13:58
 - **Mexican Consulate Emergency Line**: 213-219-0175
 - [Apply for FEMA assistance](http://www.disasterassistance.gov/)
 - [Governor Newsom announces commitments from major lenders to provide firestorm survivors with mortgage relief](https://www.gov.ca.gov/2025/01/18/governor-newsom-announces-commitments-from-major-lenders-to-provide-firestorm-survivors-with-mortgage-relief/)
+- [From free rides to hotel discounts: List of resources for LA wildfire victims](https://www.nbclosangeles.com/news/local/free-resources-los-angeles-wildfires-2025-discounts/3598751/)
 - [LA Fire Hotel Availability](https://docs.google.com/spreadsheets/u/1/d/1o3k8WKk06GsCmPfQYXUyV0NILEt_8jSTzHTk7eIQ4os/htmlview?usp=embed_facebook) - Discounted and potentially free rooms for displaced residents
 - [Venice Helping Hub](https://www.venicehelpinghub.com/) - Resources for evacuees
 - [Mutual Aid Los Angeles Resources](https://docs.google.com/spreadsheets/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/edit?gid=0) - Shelter info, animal boarding, distribution centers
