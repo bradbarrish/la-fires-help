@@ -5,7 +5,7 @@ It has been frustratingly difficult to find high-quality, trustworthy informatio
 
 I created [a custom GPT](https://chatgpt.com/g/g-678a7b3ebf648191a203f5d964cdf12d-post-la-fires-gpt) that is an expert in air quality and can answer all of your questions about life in LA post-fire. You can ask it anything about air quality, health, and safety. I have tested it extensively and it is very good. Others have told me the same.
 
-Last updated: 2025-01-18 @ 23:06
+Last updated: 2025-01-19 @ 21:49
 
 ## Emergency Information & Maps
 - [LAFD News](https://lafd.org/news)
