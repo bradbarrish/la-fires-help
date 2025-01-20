@@ -56,6 +56,34 @@ Last updated: 2025-01-18 @ 23:06
 - [2025 California Wildfires Insurance Claim Help](https://uphelp.org/disaster-recovery-help/2025cawildfires/)
 - [Legal Aid Disaster Resource Center](https://www.ladrc.org/disasters/california-wildfires-and-straight-line-winds/)
 
+## Replace Important Documents
+**Driver's License/ID/Vehicle Title**
+Contact CA DMV (1-800-777-0133) or visit a [DMV Local Assistance Center](https://dmv.ca.gov/portal/customer-service/natural-disaster-assistance/).
+
+**Insurance Policy**
+Ask your agent for a copy, including the Declaration Page.
+
+**Vital Records**
+Request birth, death, or marriage certificates from [your county recorder](https://www.cdph.ca.gov/Programs/CHSI/Pages/County-Registrars-and-Recorders.aspx).
+
+**Social Security Card**
+[Apply online](https://www.ssa.gov/number-card/replace-card) or visit your local SSA office.
+
+**Medicare Card**
+Call 1-800-633-4227 or visit [MyMedicare.gove](http://mymedicare.gov)
+
+**Green Card**
+Replace via [USCIS](https://uscis.gov/green-card/after-we-grant-your-green-card/replace-your-green-card)
+
+**Passport**
+Report lost (or stolen) passport to the [US Department of State](https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html)
+
+**Tax Returns**
+Request [Form 4506](https://irs.gov/forms-pubs/about-form-4506)
+
+**Military Records**
+Request via the [National Archives](https://archives.gov/veterans/military-service-records)
+
 ## Mobile Apps
 - Watch Duty: [iOS](https://apps.apple.com/us/app/watch-duty-wildfire/id1574452924) / [Android](https://play.google.com/store/apps/details?id=org.watchduty.app)
 - Scanner Radio: [iOS](https://apps.apple.com/us/app/police-scanner-radio-fire/id498405045) / [Android](https://play.google.com/store/apps/details?id=com.scannerradio&hl=en_US)
