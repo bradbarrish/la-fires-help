@@ -37,6 +37,7 @@ Last updated: 2025-01-19 @ 21:49
 - [Therapists offering pro bono therapy](https://docs.google.com/spreadsheets/u/1/d/1uAMVz8TQMzShQeuEA6kmOP0jyRN7qe1Iiqb6JOLTPqg/htmlview)
 - [Basic Post Fire Personal Safety](https://docs.google.com/document/u/0/d/1sFFK7f4M4HTd9N4JygWzUhxpwSzW2TgOPCj1eml6Yvo/mobilebasic)
 - [CalFire advice on creating a 'go bag'](https://readyforwildfire.org/prepare-for-wildfire/emergency-supply-kit/)
+- [Ash below, blue sky above: Is the air safe? (UCLA)](https://www.ioes.ucla.edu/article/ash-below-blue-sky-above-is-the-air-safe/)
 
 ## Community Support & Donations
 - [SPACES Donation Center and Volunteer Registration](https://docs.google.com/forms/d/e/1FAIpQLSdrQx2ihnbN5q1ScqGgh2hxjMsuGM1wF2YYCtFMQsFIJEtlFA/viewform)
